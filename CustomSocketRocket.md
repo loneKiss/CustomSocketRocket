@@ -1,2 +1,3 @@
 # CustomSocketRocket
 SocketRocket是Facebook家的WebSocket的框架，连接允许用户端和服务器之间进行全双工通信，以便任一方都可以通过建立的连接将数据推送到另一端。WebSocket 只要要建立一次连接，即可以一直保持连接状态
+
